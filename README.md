@@ -178,3 +178,18 @@ Food_Rating_Category = SWITCH(
 📄 README.md
 📄 Restaurant Ratings Analysis.pbix
 ```
+## Dashboard
+
+<img width="2075" height="1200" alt="image" src="https://github.com/user-attachments/assets/794d2be2-35e6-4e4f-9cc8-02e19097facc" />
+
+<img width="2075" height="1200" alt="image" src="https://github.com/user-attachments/assets/c2db8d62-2b5f-4dfc-b955-fc2c056c82fa" />
+
+<img width="2075" height="1200" alt="image" src="https://github.com/user-attachments/assets/8af922d3-f47b-4640-8ffa-474f233e4889" />
+
+<img width="2075" height="1200" alt="image" src="https://github.com/user-attachments/assets/42c2ace8-efd9-4462-9483-014a78a79f3f" />
+
+<img width="2075" height="1200" alt="image" src="https://github.com/user-attachments/assets/2ef69c60-001a-4442-a9f9-e9154674e9d3" />
+
+
+
+
