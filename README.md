@@ -1,4 +1,4 @@
-# Mexico Restaurant Intelligence Dashboard | Power BI
+# Restaurant Intelligence Dashboard | Power BI
 
 A full end-to-end business analytics project analyzing real-world restaurant ratings data from Mexico (2012), covering consumer demographics, restaurant attributes, and rating behavior across multiple cities and states.
 
@@ -66,6 +66,9 @@ The dataset consists of 5 relational tables:
 
 ---
 
+## ER Diagram
+![ER Diagram](er_diagram.png)
+
 ## Data Cleaning & Import
 
 1. Get Data → More → All → Folder → Connect → select dataset folder path
@@ -75,11 +78,6 @@ The dataset consists of 5 relational tables:
 
 ---
 
-## Data Modeling
-
-Built a star-schema style relational model in Power BI connecting all 5 tables via `Consumer_ID` and `Restaurant_ID` keys.
-
----
 
 ## DAX Calculated Columns
 
